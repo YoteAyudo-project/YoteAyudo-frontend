@@ -2,7 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import <AuthStore> 
+import <AuthStore>  from 
+// import registerServiceWorker from './registerServiceWorker';
+
+import React, { useEffect, useState } from 'react';
 
 
 ReactDOM.render(
@@ -12,7 +15,30 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+
+function MyComponent() {
+  const [data, setData] = useState(null);
+
+  useEffect(() => {
+    fetch('http://localhost:3000')
+      .then((response) => response.json())
+      .then((data) => setData(data))
+      .catch((error) => console.error('Error fetching data:', error));
+  }, []);
+
+  return (
+    <div>
+      {data ? (
+        <div>
+          <p>Data:</p>
+          <pre>{JSON.stringify(data, null, 2)}</pre>
+        </div>
+      ) : (
+        <p>Loading data...</p>
+      )}
+    </div>
+  );
+}
+
+export default MyComponent;
+
