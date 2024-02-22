@@ -110,7 +110,7 @@ npm run dev
 - Product Owner: Gabriel Pastor
 - Scrum Master: Stephanie Céspedes
 - Backend team: Natalia García,Stephanie Céspedes
-- Frontend team: Gabriel Pastor, David Altamirano,Elle,Stephanie Céspedes.
+- Frontend team: Gabriel Pastor, David Altamirano,Elle Sgromo,Stephanie Céspedes.
 - UI/UX:Gabriel Pastor
 
 ## 👩‍💻🧑‍💻 LinkedIn:
@@ -118,9 +118,8 @@ npm run dev
 - Stephanie Céspedes - [Linkedin profile](https://www.linkedin.com/in/stephanie-cespedes)
 - David Altamirano - [Linkedin profile](https://www.linkedin.com/in/jdaltamiranodev/)
 - Gabriel Pastor - [Linkedin profile](https://www.linkedin.com/in/byron-gabriel-pastor-viteri/)
-- Elle - [Linkedin profile](https://www.linkedin.com/in/elle-sgromo-garc%C3%ADa-ab865b2a3/) 
-- Nuria -
-- Natalia -
+- Elle Sgromo - [Linkedin profile](https://www.linkedin.com/in/elle-sgromo-garc%C3%ADa-ab865b2a3/) 
+- Natalia García - [Linkedin profile](https://www.linkedin.com/in/elle-sgromo-garc%C3%ADa-ab865b2a3/) 
 
 > [!TIP]
 >
