@@ -118,7 +118,7 @@ npm run dev
 - Stephanie Céspedes - [Linkedin profile](https://www.linkedin.com/in/stephanie-cespedes)
 - David Altamirano - [Linkedin profile](https://www.linkedin.com/in/jdaltamiranodev/)
 - Gabriel Pastor - [Linkedin profile](https://www.linkedin.com/in/byron-gabriel-pastor-viteri/)
-- Elle - 
+- Elle - [Linkedin profile](https://www.linkedin.com/in/elle-sgromo-garc%C3%ADa-ab865b2a3/) 
 - Nuria -
 - Natalia -
 
